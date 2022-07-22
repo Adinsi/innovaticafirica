@@ -1,5 +1,5 @@
 # innovaticafirica
 
-##Projet du groupe HSCM à réaliser
+## Projet du groupe HSCM à réaliser
 
-### Ceci est une intégration a concevoir du site innovaticafrica
+### Ceci est une intégration a concevoir du site innovaticafrica , héberger sur : https://innovaticafrica.bj
